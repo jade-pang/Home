@@ -1,4 +1,4 @@
-## Welcome to Jade Pang's Teaching Page
+## Jade Pang's Teaching Page
 
 <!-- You can use the [editor on GitHub](https://github.com/jade-pang/Teaching/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
