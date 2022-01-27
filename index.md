@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <!-- ### Tutorials -->
 
 # Fall 2021-2022
-[MATH 2121 Linear Algebra](https://jade-pang.github.io/MATH2121/)
+[MATH 2121 Linear Algebra](https://jade-pang.github.io/teaching/MATH2121/)
 
 # Spring 2021-2022
 MATH 2343 Discrete Structure
