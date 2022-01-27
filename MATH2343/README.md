@@ -1,6 +1,6 @@
 ## MATH2343 Tutorial Page
-<!-- <img src= "Elmo.png" width="360" height="180">
-<img src= "https://scontent-hkg4-2.xx.fbcdn.net/v/t1.6435-9/247036319_866615780703803_2345663964787519475_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=825194&_nc_ohc=EvGmDGxc3LsAX-tTJF8&_nc_ht=scontent-hkg4-2.xx&oh=e52f1958ad113b4fc3465030eed2bd24&oe=61957BB0" width="300" height="225"> -->
+<!-- <img src= "Elmo.png" width="360" height="180"> -->
+<img src= "https://scontent.fblr2-1.fna.fbcdn.net/v/t1.18169-9/19554777_486452271696775_8083015274106213224_n.png?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=pxtua-avCMMAX9FS4za&_nc_ht=scontent.fblr2-1.fna&oh=00_AT-phnSF6xaL4PFAWXX2ZGm2zZ_qfaITZfWIOXdQhroJPw&oe=62168590" width="300" height="225">
 
 ### Information
 - Sessions: **T1B**
