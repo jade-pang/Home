@@ -19,11 +19,11 @@ Please feel free to join. -->
 <!-- {height="700px" width="700px"} -->
 ### Tutorial Notes
 
-- [Tutorial 1]()
+- [Tutorial 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EfOfOEit9PVLobiOFZgVKlkBEVAN4jMXt6Hbzwc5q7Vx9Q?e=fE7nyc)
 
 ### Exercises
  _(These are just the exercises from the notes above.)_
-- [Exercise 1]() ([Solution]() )
+- [Exercise 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZJ7zEq2mFFOu-SjUjjayuwBqT5foi87Dpab7eQ6VqHLqA?e=Y9Udsn) ([Solution]() )
 
 ### Recordings
 
