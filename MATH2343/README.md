@@ -24,7 +24,8 @@ Please feel free to join. -->
 
 ### Exercises
  _(These are just the exercises from the notes above.)_
-- [Exercise 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZJ7zEq2mFFOu-SjUjjayuwBqT5foi87Dpab7eQ6VqHLqA?e=Y9Udsn) ([Solution]() )
+- [Exercise 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZJ7zEq2mFFOu-SjUjjayuwBqT5foi87Dpab7eQ6VqHLqA?e=Y9Udsn) 
+<!-- - ([Solution]() ) -->
 
 ### Recordings
 
