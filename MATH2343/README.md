@@ -29,7 +29,7 @@ Please feel free to join. -->
 
 ### Recordings
 
-- [Tutorial 1]()
+<!-- - [Tutorial 1]() -->
 
 
 ### Useful Websites
