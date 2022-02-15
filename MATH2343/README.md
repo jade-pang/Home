@@ -30,7 +30,7 @@ Please feel free to join. -->
 
 ### Recordings
 
-<!-- - [Tutorial 1]() -->
+- [Tutorial 1](https://hkust.zoom.us/rec/share/LsJzGPTLOtCWJNek_g2q76Id4bVlTo36YxnxT71q7ohtY5AWj2CsuTP_f6MIep4.Gwezk4AiSlx_R2dE)
 
 
 ### Useful Websites
