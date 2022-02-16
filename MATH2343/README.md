@@ -7,7 +7,7 @@
 - Sessions: **T1B**
 - TA: PANG Wai Ho (Jade)
 - Email: whpangaa@connect.ust.hk
-- Office hours: Due to the online teaching mode, please send me an email to arrange an appointment
+- Office hours: Due to online teaching mode, please send me an email to arrange an appointment.
 <!-- - **🙏🙏🙏 Please Fill in the SFQ Survey on Canvas or https://asset.ust.hk/asset/mobile.do?iLearn=true 🙏🙏🙏** -->
 
 <!-- ### Q&A session of this course 
