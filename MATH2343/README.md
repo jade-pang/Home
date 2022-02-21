@@ -22,7 +22,7 @@ Please feel free to join. -->
 ### Tutorial Notes
 
 - [Tutorial 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EfOfOEit9PVLobiOFZgVKlkBEVAN4jMXt6Hbzwc5q7Vx9Q?e=fE7nyc) (Last update: 22:00, Feb13 )
-- [tutorial 2](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZdlmzQ2j45DliEeK_5qw9QB25abXmq2Z4s3NPURUUqJxQ?e=zvTe45)
+- [Tutorial 2](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZdlmzQ2j45DliEeK_5qw9QB25abXmq2Z4s3NPURUUqJxQ?e=zvTe45)
 
 ### Exercises
  _(These are just the exercises from the notes above.)_
@@ -31,7 +31,7 @@ Please feel free to join. -->
 
 ### Recordings
 
-- [Tutorial 1](https://hkust.zoom.us/rec/share/LsJzGPTLOtCWJNek_g2q76Id4bVlTo36YxnxT71q7ohtY5AWj2CsuTP_f6MIep4.Gwezk4AiSlx_R2dE) (Supplementary video: Released on Monday)
+- [Tutorial 1](https://hkust.zoom.us/rec/share/LsJzGPTLOtCWJNek_g2q76Id4bVlTo36YxnxT71q7ohtY5AWj2CsuTP_f6MIep4.Gwezk4AiSlx_R2dE) (Supplementary video: Postpone)
 
 
 ### Useful Websites
