@@ -7,6 +7,8 @@
 - Sessions: **T1B**
 - TA: PANG Wai Ho (Jade)
 - Email: whpangaa@connect.ust.hk
+- Zoom: https://hkust.zoom.us/j/99485167548?pwd=dXpNL1Y4OWNjZjIrOTd4a3lUMXpFQT09
+- Meeting ID: 994 8516 7548, Passcode: 2343
 - Office hours: Due to online teaching mode, please send me an email to arrange an appointment.
 <!-- - **🙏🙏🙏 Please Fill in the SFQ Survey on Canvas or https://asset.ust.hk/asset/mobile.do?iLearn=true 🙏🙏🙏** -->
 
