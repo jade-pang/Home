@@ -34,7 +34,7 @@ Please feel free to join. -->
 ### Recordings
 
 - [Tutorial 1](https://hkust.zoom.us/rec/share/LsJzGPTLOtCWJNek_g2q76Id4bVlTo36YxnxT71q7ohtY5AWj2CsuTP_f6MIep4.Gwezk4AiSlx_R2dE)
-- [Tutorial 2](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ETLrZxmhuc9PnDfJCf9-FI8BERj89XRqpOIB-W9DW5ur7g?e=iko244)
+- [Tutorial 2](https://hkust.zoom.us/rec/share/5Kv8fyuKHxJ4JRZlNrsaZX3po7vEW_LGwGyWA-W5o0eqCWvvvnDKvqmmXqcSKo0i.P_HZii4hRL9E2RbG)
 
 
 ### Useful Websites
