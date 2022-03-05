@@ -37,7 +37,7 @@ Please feel free to join. -->
 
 - [Tutorial 1](https://hkust.zoom.us/rec/share/LsJzGPTLOtCWJNek_g2q76Id4bVlTo36YxnxT71q7ohtY5AWj2CsuTP_f6MIep4.Gwezk4AiSlx_R2dE)
 - [Tutorial 2](https://hkust.zoom.us/rec/share/5Kv8fyuKHxJ4JRZlNrsaZX3po7vEW_LGwGyWA-W5o0eqCWvvvnDKvqmmXqcSKo0i.P_HZii4hRL9E2RbG)
-- [tutorial 3](https://hkust.zoom.us/rec/share/xNfQkGB0Y_Lhvbo3i4Yj_R6eEhRhbJIbOv8ou7vQxy_UwZgpCCJs4KLfc6yQtw7w.1bd0Wmcc2WmOG_ZA)
+- [Tutorial 3](https://hkust.zoom.us/rec/share/xNfQkGB0Y_Lhvbo3i4Yj_R6eEhRhbJIbOv8ou7vQxy_UwZgpCCJs4KLfc6yQtw7w.1bd0Wmcc2WmOG_ZA)
 
 
 ### Useful Websites
