@@ -26,7 +26,7 @@ Please feel free to join. -->
 - [Tutorial 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EfOfOEit9PVLobiOFZgVKlkBEVAN4jMXt6Hbzwc5q7Vx9Q?e=fE7nyc) (Last update: 22:00, Feb13 )
 - [Tutorial 2](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ETLrZxmhuc9PnDfJCf9-FI8BERj89XRqpOIB-W9DW5ur7g?e=iko244) ([Supplementary Notes](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EXBvSBk-bWNOjCNh9xVDvwgBrzV-5QGaqURCKzd4FBu33Q?e=fy60hG))
 - [Tutorial 3](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EdNMmytZwtRIoL7-osaAq5QBbhAohQfFHfTlKd200pwlKw?e=cay6Pi) (Typo fixed in P.4)
-- [Tutorial 4](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EWBzMNRSTotPup-BXcOLrcoBDWf1jhDptp4lv0Zd7pDMaw?e=9rulpU)
+- [Tutorial 4](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EWBzMNRSTotPup-BXcOLrcoBDWf1jhDptp4lv0Zd7pDMaw?e=9rulpU) (Typo fixed in P.4)
 
 ### Exercises
  _(These are just the exercises from the notes above.)_
