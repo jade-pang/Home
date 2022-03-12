@@ -1,5 +1,5 @@
 ## MATH2343 Tutorial Page
-<img src=  "https://scontent-hkt1-1.xx.fbcdn.net/v/t1.6435-9/183421007_2851150015099630_8338821558897047592_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a26aad&_nc_ohc=K87Hf-KX7ycAX-C8J9P&_nc_ht=scontent-hkt1-1.xx&oh=00_AT-ssE6jKMhO9li8vCjOeeLMU1NjNBz6hbvbfubRsQ_oiA&oe=6225869B" width="300" height="225">
+<img src=  "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-9/183421007_2851150015099630_8338821558897047592_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=102&ccb=1-5&_nc_sid=9e2e56&efg=eyJpIjoidCJ9&_nc_ohc=0xR98ds-ggwAX_ATxe7&tn=JcKdTKa7lRJ5d7bB&_nc_ht=scontent-nrt1-1.xx&oh=00_AT90B1Z33ii3MU162nqGDSCwNUvEEBmbotJP9c-JJhzEcQ&oe=6251081B" width="300" height="225">
 <!-- <img src= "Elmo.png" width="360" height="180"> -->
 <!-- <img src= "https://scontent.fblr2-1.fna.fbcdn.net/v/t1.18169-9/19554777_486452271696775_8083015274106213224_n.png?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=pxtua-avCMMAX9FS4za&_nc_ht=scontent.fblr2-1.fna&oh=00_AT-phnSF6xaL4PFAWXX2ZGm2zZ_qfaITZfWIOXdQhroJPw&oe=62168590" width="300" height="225"> -->
 
