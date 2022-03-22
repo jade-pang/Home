@@ -46,9 +46,11 @@ Please feel free to join. -->
 - [Tutorial 3](https://hkust.zoom.us/rec/share/xNfQkGB0Y_Lhvbo3i4Yj_R6eEhRhbJIbOv8ou7vQxy_UwZgpCCJs4KLfc6yQtw7w.1bd0Wmcc2WmOG_ZA)
 - [Tutorial 4](https://hkust.zoom.us/rec/share/vUiIQZNeeyRcL8cmU1DqkZNFUy7IkBw1_I3Y0GiAUucgDweFnSYq08zdgh1vPuLh.MyxRuKayyWwI14Xv)
 - [Tutorial 5](https://hkust.zoom.us/rec/share/OgW2xcCcdXz79sn0n1bQueTJ1vD7Jbt4CEfjb1B87YDZQJdY9fIE42CpAgbRnt1a.znTlfvFA48RqG3Ia)
+- [Tutorial 6](https://hkust.zoom.us/rec/share/CaANG0VxKnDSyq0nVFxjmcFGfbRfYS-xnJGT6J8dj40IXEkGeNu0M-__-pYiJmJ_.NIV-0vZa983VSy5Z)
 
 ### Useful Websites
-
+- [Discrete Structure Youtube Playlist](https://youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
+- [Number Theory Youtuble Playlist](https://youtube.com/playlist?list=PL22w63XsKjqwn2V9CiP7cuSGv9plj71vv)
 - [Linear Algebra Toolkit by PERL.](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi) (The Best Website to do calculations in Linear Algebra.)
 - [Wolfram Alpha](https://www.wolframalpha.com) (The Mobile Version is very user friendly and useful in many math courses, not just Linear Algebra.)
 - [Symbolab](https://www.symbolab.com) (The Desktop Version is very nice to modify your inputs after last computation.)
