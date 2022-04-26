@@ -59,6 +59,7 @@ Please feel free to join. -->
  - [Tutorial 7](https://hkust.zoom.us/rec/share/aoMDAj9W0biMmDFPIFAU9cG8O7WqWuJzVLetOUImWPwlv-gP64IVssyqbv-HudKq.YfYokH93A2otGc50)
  - [Tutorial 8](https://hkust.zoom.us/rec/share/wiFmTzVIMD58pmtUvos93kDxXDpesoGIk5JnklvATUYyg1eNatl4B7dixNRAJwsn.FWIhLg1HIkJTy2Q-)
  - [Tutorial 9](https://hkust.zoom.us/rec/share/1SuvVC6ncHIJDmy5ve1333dAMBXBZysIAAiPRJlW6kz8OWn0d_kypCeSSd6X-vUL.4r5MZ3wWhOBhNkTG)
+ - [Tutorial 10](https://hkust.zoom.us/rec/share/p3WkveicYLynZPqYDsAqM-sYG7gue9rIqTCz1d0xV9IT5YWWWcLWUmR9YSy6H5jj.5nnJA80OOYCX8Law)
 
  ### Useful Websites
  - [Discrete Structure Youtube Playlist](https://youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
