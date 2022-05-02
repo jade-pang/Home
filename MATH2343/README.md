@@ -33,7 +33,7 @@ Please feel free to join. -->
 - [Tutorial 8](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EajUQmt4qHBDsItlqoBWgp4B11oW-DqJ6gqol3mHwQ0BBw?e=4Oc4BU)
 - [Tutorial 9](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EQlzFqWIWwlEgr2EwJxXdfIBnosGf1dA4LvH1BimY0IjIA?e=Bzb3Iw)
 - [Tutorial 10](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EfXITAQh3OVAtqr2ObHEvAwBWi7WbgtuvnAhUASHoKCqrw?e=JYZgOG)
-- [tutorial 11](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EdfZxKgw-z9Lqrcg0JU_XZoB1GJwYr78DA6TAglvJNnvQA?e=tkzqUs)
+- [Tutorial 11](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EdfZxKgw-z9Lqrcg0JU_XZoB1GJwYr78DA6TAglvJNnvQA?e=tkzqUs)
 
 ### Exercises
  _(These are just the exercises from the notes above.)_
