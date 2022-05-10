@@ -51,6 +51,7 @@ Please feel free to join. -->
 - [Exercise 10](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EaDhnzLdz-hBgGe9aotEGWMBSQdcVDqugrq7iONAvKN5kw?e=yb8gl9) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EWnX8VWgjcFJjBo7THIKYUoBXvhhfQqUIwStVjevBPwLtA?e=DkIqaw))
 - [Exercise 11](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EQ0YWpsFk1dEmT-Z_aGOmSQBBgcHxKqh0xuIyk4EO0ZpBg?e=CrYBXn)
 - [Exercise 12](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ERO_vhsazAtPlGDw50Cgm6UBguqoJJB81nGA4o-NyWgV1g?e=69FcOu)
+([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EWbL909aIBNFq3lNT1Ua0_gBOHtXtVIJot1LncM9zlnodg?e=Tk4yFc))
 
 ### Recordings
 
@@ -65,6 +66,7 @@ Please feel free to join. -->
  - [Tutorial 9](https://hkust.zoom.us/rec/share/1SuvVC6ncHIJDmy5ve1333dAMBXBZysIAAiPRJlW6kz8OWn0d_kypCeSSd6X-vUL.4r5MZ3wWhOBhNkTG)
  - [Tutorial 10](https://hkust.zoom.us/rec/share/p3WkveicYLynZPqYDsAqM-sYG7gue9rIqTCz1d0xV9IT5YWWWcLWUmR9YSy6H5jj.5nnJA80OOYCX8Law)
  - [Tutorial 11](https://hkust.zoom.us/rec/share/AeKbXiGoM1-GaKb1zv0McdTYk3GYD_6j1-SQT17tDZ5OR_uAzzA0a5MGvhEgOG2R.1euUP4EUwTtawu28)
+ - [Tutorial 12](https://hkust.zoom.us/rec/share/FWVUn-1SNVHMdNeFR2itZP3bpsq1edBw2cvgJbqQOU2F4ECFZPwICi-wP69OF6Y8.R4NriOY1cL5DUXDJ)
 
  ### Useful Websites
  - [Discrete Structure Youtube Playlist](https://youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
