@@ -50,6 +50,7 @@ Please feel free to join. -->
 - [Exercise 9](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZod5il9rxxGu0Kia6W9J0ABHAXUMjX0hxKGeiPrUQzwfw?e=ddPhpZ) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EbhEGjCyE3pJmmS9uixkLuABDiCyVun3RvWpUc5xJqmCRw?e=fP12AY))
 - [Exercise 10](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EeA_HVksHEtIpl6WT4T4ynMBEvayWrx1tCud4mf-_j_Q5w?e=i2ox0e) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EWnX8VWgjcFJjBo7THIKYUoBXvhhfQqUIwStVjevBPwLtA?e=DkIqaw)) (*Updated*)
 - [Exercise 11](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EQ0YWpsFk1dEmT-Z_aGOmSQBBgcHxKqh0xuIyk4EO0ZpBg?e=CrYBXn)
+([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Eb-k3llVjTdJgkdRmTlijwUBXZHbSw-SaDiaOJhXAm5ikg?e=qNBkNh))
 - [Exercise 12](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ERO_vhsazAtPlGDw50Cgm6UBguqoJJB81nGA4o-NyWgV1g?e=69FcOu)
 ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EWbL909aIBNFq3lNT1Ua0_gBOHtXtVIJot1LncM9zlnodg?e=Tk4yFc))
 
